@@ -23,5 +23,6 @@ Sounds play with varying volume and pitch depending on the transaction. (beta).
 * Install the following libraries using the library installer in Processing: 
   * Sound (Author: The Processing Foundation)
   * Websockets (Author: Lasse Steenbock Vestergaard)
+ * Add [this library](https://github.com/alexandrainst/processing_websockets/blob/master/library/jetty-client-9.3.6.v20151106.jar) to (Sketchbook-location)/libraries/webSockets/library 
  * Open the project "FinalBootcampProject"
  * Execute the project
